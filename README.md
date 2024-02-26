@@ -1,5 +1,14 @@
 # youtube-page-html-css-practice
- HTML-CSS practice
+ a Youtube page made in HTML-CSS.
+
+ ### Properties used: 
+ - Nested flexboxes properties
+ - Grid properties
+ - Colors properties
+ - Border properties
+ - Padding and margin properties
+ - CSS positions properties
+ - etc.
  
 ![Screenshot 2024-02-26 181335](https://github.com/ayaalshouha/youtube-page-html-css-practice/assets/129595827/b6f3f44e-7ecb-4e36-a004-05a4998b64b3)
 
